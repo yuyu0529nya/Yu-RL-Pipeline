@@ -76,7 +76,7 @@ This provides gradient at every turn, not just at task completion.
 
 The 24.2 percentage point gain from Pass@1 to Pass@4 shows that RL-trained models benefit from inference-time exploration. They learn multiple viable strategies instead of overfitting to one path.
 
-[Training logs (WandB)](https://wandb.ai/jbarnes850-near-protocol/tau2-cookbook)
+[Training logs (WandB)](https://wandb.ai/yuyu0529nya-fudan-university-school-of-management/tau2-cookbook)
 
 ---
 
